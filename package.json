@@ -1,6 +1,6 @@
 {
-	"name": "@tparent/ng-oop",
-	"version": "0.1.0",
+	"name": "ng-oop",
+	"version": "0.1.1",
 	"description": "AngularJS abstract classes for easier component implementation",
 	"definition": "AngularJS OOP",
 	"homepage": "https://githib.com/thierry2015/ng-oop",

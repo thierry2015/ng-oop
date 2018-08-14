@@ -95,7 +95,7 @@
 /* eslint-disable no-undef */
 /* eslint-disable global-require */
 if (window.angular) {
-	window.angular.oop = __webpack_require__(1);
+	window.angular.oop = __webpack_require__(1).default;
 }
 
 /***/ }),
