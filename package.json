@@ -1,5 +1,5 @@
 {
-	"name": "ng-oop",
+	"name": "@tparent/ng-oop",
 	"version": "0.1.0",
 	"description": "AngularJS abstract classes for easier component implementation",
 	"definition": "AngularJS OOP",
