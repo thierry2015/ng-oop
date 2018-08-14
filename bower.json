@@ -1,0 +1,36 @@
+{
+	"name": "ng-oop",
+	"description": "AngularJS abstract classes for easier component implementation",
+	"definition": "AngularJS OOP",
+	"homepage": "https://githib.com/thierry2015/ng-oop",
+	"author": {
+		"name": "Thierry Parent",
+		"url": "http://thierryparent.ca"
+	},
+	"keywords": [],
+	"license": "MIT",
+	"repository": {
+		"url": "https://github.com/thierry2015/ng-oop.git",
+		"type": "git"
+	},
+	"bugs": {
+		"url": "https://github.com/thierry2015/ng-oop/issues"
+	},
+	"moduleType": "globals",
+	"main": "dist/web.js",
+	"ignore": [
+		"ressources",
+		"src",
+		"test",
+		".editorconfig",
+		".eslintignore",
+		".eslintrc.yaml",
+		".gitignore",
+		".npmignore",
+		".travis.yml",
+		"package.json",
+		"webpack.config.json"
+	],
+	"dependencies": {
+	}
+}

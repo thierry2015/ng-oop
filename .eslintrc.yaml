@@ -1,0 +1,7 @@
+extends: '@absolunet/node'
+
+parserOptions:
+  sourceType: module
+
+globals:
+  angular: true
